@@ -9,7 +9,7 @@ A Windows 11-inspired theme for rofi launcher on Linux.
 
 ## Requirements
 - `rofi` 1.7 or newer
-- `selawk` font
+- `Selawk` font
 
 ### Install selawk font
 

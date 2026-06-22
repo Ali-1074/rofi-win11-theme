@@ -11,7 +11,7 @@ A Windows 11-inspired theme for rofi launcher on Linux.
 - `rofi` 1.7 or newer
 - `Selawk` font
 
-### Install selawk font
+### Install Selawk font
 
 The Selawk font is included in the `font` directory. Copy it to `~/.local/share/fonts` then run:
 

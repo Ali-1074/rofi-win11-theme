@@ -21,7 +21,7 @@ fc-cache -fv
 
 ## Installation
 
-Copy the downloaded files to your `~/.config/rofi` directory.
+Move the `rofi` directory into `~/.config/`.
 
 Run the theme with:
 
